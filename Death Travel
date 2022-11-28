@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Travel like no one have ever had</title>
+        <style>
+            #bermuda {color:rgb(249, 5, 17);}
+body {background-color: rgb(213, 247, 240);}
+
+.unordered
+{font-size: 20px; -webkit-text-fill-color:rgb(3, 6, 8);
+    -webkit-text-stroke-width: 0.2px;
+     -webkit-text-stroke-color:rgb(253, 42, 5);
+    }
+
+    .ordered{font-size: 20px; -webkit-text-fill-color: black;
+    -webkit-text-stroke-color: blue;
+-webkit-text-stroke-width: 00.2px;}
+
+        </style>
+    </head>
+    <body>
+    
+    <h2>Travel like never before
+    </h2>
+     <p> Have you ever wanted to travel somewhere where only afew men have ever been?
+     </p>
+     <p> We introduce to you...</p>
+     <h3><strong id="bermuda"> The Bermuda Triangle</strong></h3>
+     <p> a beutiful journey to <strong>death</strong> without ever coming back.
+     </p>
+     <img src="https://assets.traveltriangle.com/blog/wp-content/uploads/2016/02/Bermuda-Triangle-Stories.jpg" alt="airplane travelling across the ocean/above the bermuda triangle" width="273" height="173" >
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt78yLVuZmV5jUtv1cI0DHNPgwbNTDYZCOsA&usqp=CAU" alt="sea vortex" width="260">
+     <img src="https://scope.scholastic.com/content/dam/classroom-magazines/scope/issues/2016-17/090116/grammar-goes-to-the-bermuda-triangle/SCO-090116-Grammar_Banner.jpg" alt="thunder hitting ships on the sea" width="260" height="172">
+     <p>for the first time in a mankind history, we are offering a journey to <em>death</em> via airplane. here are list of the things we promise to deliver:</p>
+     <ul>
+         <li><strong class="unordered">An <em>easy</em> painlesss death </strong></Li>
+            <li><strong class="unordered">An absolute <em>legal</em> journey </strong></li>
+                <li><strong class="unordered">An absolute <em>free</em> travel with airplane(banquet included)</strong></li>
+                    <li><strong class="unordered"> A fun, adventurous and an exciting <em>travel</em></strong></li>
+         
+         <p> so here is how you get your ticket for this awesome journey:</p>
+         <ol>
+             <li><strong class="ordered">Sign up to this website</strong></li>
+             <li><strong class="ordered">Put your email address and your phone number</strong></li>
+             <li><strong class="ordered">write us your enheritence letter(you wont survive so we will deliver it to your family after your death)</strong></li>
+             <li><strong class="ordered">Get your free ticket</strong></li>
+             <li><strong class="ordered">And you are done...</strong></li>
+             <p>We will contact you about the flight timeline.<br>
+Make sure to get on time because you dont want to miss your free death flight.</p>
+<p> for further information, please contact us via the email bellow:</p>
+<p><strong>deathflight13@gmail.com</strong></p>
+         </ol>
+         
+     </ul>
+    </body>
+</html>
